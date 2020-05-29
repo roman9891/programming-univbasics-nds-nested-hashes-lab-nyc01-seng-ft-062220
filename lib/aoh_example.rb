@@ -15,7 +15,7 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-  AoH = [
+  aoh = [
       DON_G,
       JOELLE_VD,
       PAT_M,
